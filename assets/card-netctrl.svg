@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150" width="800" height="150" role="img" aria-labelledby="t">
+  <title id="t">openwrt-netctrl — Веб-панель управления флотом роутеров</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient></defs>
+  <rect x="1" y="1" width="798" height="148" rx="14" fill="#0D1320" stroke="#22D3EE" stroke-opacity=".2" stroke-width="2"/>
+  <rect x="18" y="22" width="5" height="106" rx="2.5" fill="url(#g)"/>
+  <g font-family="Inter,'Segoe UI',system-ui,sans-serif">
+    <text x="44" y="58" font-size="34" font-weight="700" fill="#E6EDF3">openwrt-netctrl</text>
+    <text x="44" y="98" font-size="26" fill="#8B98A9">Веб-панель управления флотом роутеров</text>
+  </g>
+  <text x="44" y="130" font-size="20" fill="#22D3EE" font-family="'JetBrains Mono',ui-monospace,Consolas,monospace">OpenWrt · web-panel · Kotlin-клиент</text>
+</svg>
